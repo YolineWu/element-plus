@@ -118,7 +118,7 @@ menu/collapse
 | Name     | Description           | Type        | Accepted Values | Default |
 | -------- | --------------------- | ----------- | --------------- | ------- |
 | index    | unique identification | string/null | —               | null    |
-| route    | Vue Router object     | object      | —               | —       |
+| route    | Vue Router object     | string/object      | —               | —       |
 | disabled | whether disabled      | boolean     | —               | false   |
 
 ## Menu-Item Events
